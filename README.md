@@ -13,14 +13,16 @@ To get ready for our testing session, please make sure you have puython setup.
 
 ### MAC setup 
 ---
-Mac already supports Python our of the box, however if you need to setup python 3. follow the link below. 
-[How to setup python 3 on Windows](https://realpython.com/installing-python/#how-to-install-python-on-macos)
+Mac already supports Python our of the box, however if you need to setup python 3, follow either links below. 
+* [Official - How to setup python 3 on MACOS](https://realpython.com/installing-python/#how-to-install-python-on-macos)
+* [CS61a - How to setup python 3 on MACOS] (https://cs61a.org/lab/lab00/#install-python-3)
 
 
 ### Windows setup 
 ---
-[How to setup python 3 on Windows](https://realpython.com/installing-python/)
-
+Follow either links below. 
+* [How to setup python 3 on Windows](https://realpython.com/installing-python/)
+* [CS61a - How to setup python 3 on Windows] (https://cs61a.org/lab/lab00/#install-python-3)
 
 Play around with the python Language using python Koans
 ---
